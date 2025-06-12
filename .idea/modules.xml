@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JSP_blue_bottle.iml" filepath="$PROJECT_DIR$/.idea/JSP_blue_bottle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/blue_bottle/blue_bottle.iml" filepath="$PROJECT_DIR$/blue_bottle/blue_bottle.iml" />
-    </modules>
-  </component>
-</project>
